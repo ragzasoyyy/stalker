@@ -1,0 +1,9 @@
+{
+  "name": "stlkvctr-vercel",
+  "version": "1.0.0",
+  "main": "api/stalk.js",
+  "license": "MIT",
+  "dependencies": {
+    "tiktok-scraper": "^1.4.3"
+  }
+}
