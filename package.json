@@ -3,14 +3,10 @@
   "version": "1.0.0",
   "main": "api/stalk.js",
   "license": "MIT",
-  "scripts": {
-    "start": "node api/stalk.js",
-    "build": "echo 'Nothing to build for static project'"
-  },
-  "engines": { 
-    "node": "22.x" 
+  "engines": {
+    "node": "22.x"
   },
   "dependencies": {
-    "tiktok-scraper": "^1.4.3"
+    "tiktok-scraper-lite": "^1.0.5"
   }
 }
