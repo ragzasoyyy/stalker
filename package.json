@@ -7,8 +7,8 @@
     "start": "node api/stalk.js",
     "build": "echo 'Nothing to build for static project'"
   },
-  "engines": {
-    "node": "18.x"
+  "engines": { 
+    "node": "22.x" 
   },
   "dependencies": {
     "tiktok-scraper": "^1.4.3"
